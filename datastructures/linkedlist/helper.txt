@@ -1,0 +1,6 @@
+linked list is nothing but bunch nodes containing data and a pointer to access next node.
+
+types: singly, doubly, circular
+
+
+
